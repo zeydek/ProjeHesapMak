@@ -137,6 +137,7 @@
             // 
             // textBox1
             // 
+            this.BackColor=color.green;
             this.textBox1.Enabled = false;
             this.textBox1.Location = new System.Drawing.Point(12, 11);
             this.textBox1.Multiline = true;
@@ -148,6 +149,7 @@
             // 
             // button1
             // 
+            this.BackColor=color.Blue;
             this.button1.Location = new System.Drawing.Point(12, 137);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(69, 62);
@@ -158,6 +160,7 @@
             // 
             // button2
             // 
+            this.BackColor=color.Blue;
             this.button2.Location = new System.Drawing.Point(87, 137);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 62);
@@ -168,6 +171,7 @@
             // 
             // button3
             // 
+            this.BackColor=color.Blue;
             this.button3.Location = new System.Drawing.Point(168, 137);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(73, 62);
@@ -178,6 +182,7 @@
             // 
             // button4
             // 
+            this.BackColor=color.Blue;
             this.button4.Location = new System.Drawing.Point(12, 205);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(69, 62);
@@ -188,6 +193,7 @@
             // 
             // button5
             // 
+            this.BackColor=color.Blue;
             this.button5.Location = new System.Drawing.Point(87, 205);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(75, 62);
@@ -198,6 +204,7 @@
             // 
             // button6
             // 
+            this.BackColor=color.Blue;
             this.button6.Location = new System.Drawing.Point(168, 205);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(73, 62);
@@ -208,6 +215,7 @@
             // 
             // button7
             // 
+            this.BackColor=color.Blue;
             this.button7.Location = new System.Drawing.Point(12, 273);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(69, 62);
@@ -218,6 +226,7 @@
             // 
             // button8
             // 
+            this.BackColor=color.Blue;
             this.button8.Location = new System.Drawing.Point(87, 273);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(75, 62);
@@ -228,6 +237,7 @@
             // 
             // button9
             // 
+            this.BackColor=color.Blue;
             this.button9.AllowDrop = true;
             this.button9.Location = new System.Drawing.Point(168, 273);
             this.button9.Name = "button9";
@@ -239,6 +249,7 @@
             // 
             // button0
             // 
+            this.BackColor=color.Blue;
             this.button0.Location = new System.Drawing.Point(87, 341);
             this.button0.Name = "button0";
             this.button0.Size = new System.Drawing.Size(75, 62);
@@ -249,6 +260,7 @@
             // 
             // buttonTopla
             // 
+            this.BackColor=color.Blue;
             this.buttonTopla.Location = new System.Drawing.Point(31, 126);
             this.buttonTopla.Name = "buttonTopla";
             this.buttonTopla.Size = new System.Drawing.Size(66, 62);
@@ -259,6 +271,7 @@
             // 
             // buttonCikar
             // 
+            this.BackColor=color.Blue;
             this.buttonCikar.Location = new System.Drawing.Point(31, 194);
             this.buttonCikar.Name = "buttonCikar";
             this.buttonCikar.Size = new System.Drawing.Size(66, 62);
@@ -269,6 +282,7 @@
             // 
             // buttonCarp
             // 
+            this.BackColor=color.Blue;
             this.buttonCarp.Location = new System.Drawing.Point(31, 262);
             this.buttonCarp.Name = "buttonCarp";
             this.buttonCarp.Size = new System.Drawing.Size(66, 62);
@@ -279,6 +293,7 @@
             // 
             // buttonBol
             // 
+            this.BackColor=color.Blue;
             this.buttonBol.Location = new System.Drawing.Point(31, 330);
             this.buttonBol.Name = "buttonBol";
             this.buttonBol.Size = new System.Drawing.Size(66, 62);
@@ -289,6 +304,7 @@
             // 
             // panel1
             // 
+            this.BackColor=color.white;
             this.panel1.Controls.Add(this.buttonPi);
             this.panel1.Controls.Add(this.buttonNokta);
             this.panel1.Controls.Add(this.buttonKarekok);
@@ -308,6 +324,7 @@
             // 
             // buttonPi
             // 
+            this.BackColor=color.Blue;
             this.buttonPi.Location = new System.Drawing.Point(175, 262);
             this.buttonPi.Name = "buttonPi";
             this.buttonPi.Size = new System.Drawing.Size(121, 62);
@@ -317,7 +334,8 @@
             this.buttonPi.Click += new System.EventHandler(this.buttonPi_Click);
             // 
             // buttonNokta
-            // 
+            //  
+            this.BackColor=color.Blue;
             this.buttonNokta.Location = new System.Drawing.Point(175, 330);
             this.buttonNokta.Name = "buttonNokta";
             this.buttonNokta.Size = new System.Drawing.Size(121, 62);
@@ -328,6 +346,7 @@
             // 
             // buttonKarekok
             // 
+            this.BackColor=color.Blue;
             this.buttonKarekok.Location = new System.Drawing.Point(175, 126);
             this.buttonKarekok.Name = "buttonKarekok";
             this.buttonKarekok.Size = new System.Drawing.Size(121, 62);
@@ -338,6 +357,7 @@
             // 
             // buttonMod
             // 
+            this.BackColor=color.Blue;
             this.buttonMod.Location = new System.Drawing.Point(103, 330);
             this.buttonMod.Name = "buttonMod";
             this.buttonMod.Size = new System.Drawing.Size(66, 62);
@@ -348,6 +368,7 @@
             // 
             // buttonXkup
             // 
+            this.BackColor=color.Blue; 
             this.buttonXkup.Location = new System.Drawing.Point(103, 194);
             this.buttonXkup.Name = "buttonXkup";
             this.buttonXkup.Size = new System.Drawing.Size(66, 62);
@@ -358,6 +379,7 @@
             // 
             // buttonParantezA
             // 
+            this.BackColor=color.Blue;
             this.buttonParantezA.Location = new System.Drawing.Point(175, 194);
             this.buttonParantezA.Name = "buttonParantezA";
             this.buttonParantezA.Size = new System.Drawing.Size(121, 62);
@@ -368,6 +390,7 @@
             // 
             // button1bolux
             // 
+            this.BackColor=color.Blue;
             this.button1bolux.Location = new System.Drawing.Point(103, 262);
             this.button1bolux.Name = "button1bolux";
             this.button1bolux.Size = new System.Drawing.Size(66, 62);
@@ -378,6 +401,7 @@
             // 
             // buttonXkare
             // 
+            this.BackColor=color.Blue;
             this.buttonXkare.Location = new System.Drawing.Point(103, 126);
             this.buttonXkare.Name = "buttonXkare";
             this.buttonXkare.Size = new System.Drawing.Size(66, 62);
@@ -388,6 +412,7 @@
             // 
             // panel2
             // 
+            this.Backcolor=color.white;
             this.panel2.Controls.Add(this.txtHesaplaHepsi);
             this.panel2.Controls.Add(this.txtHepsi);
             this.panel2.Controls.Add(this.label2);
@@ -420,6 +445,7 @@
             // 
             // txtHesaplaHepsi
             // 
+            this.BackColor=color.green;
             this.txtHesaplaHepsi.Location = new System.Drawing.Point(331, 260);
             this.txtHesaplaHepsi.Name = "txtHesaplaHepsi";
             this.txtHesaplaHepsi.Size = new System.Drawing.Size(243, 29);
@@ -430,6 +456,7 @@
             // 
             // txtHepsi
             // 
+            this.BackColor=color.green;
             this.txtHepsi.Location = new System.Drawing.Point(212, 261);
             this.txtHepsi.Name = "txtHepsi";
             this.txtHepsi.Size = new System.Drawing.Size(86, 27);
@@ -437,6 +464,7 @@
             // 
             // label2
             // 
+            this.BackColor=color.yellow;
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(89, 264);
             this.label2.Name = "label2";
@@ -446,6 +474,7 @@
             // 
             // textBoxTrigonometri
             // 
+            this.BackColor=color.green;
             this.textBoxTrigonometri.Location = new System.Drawing.Point(89, 308);
             this.textBoxTrigonometri.Multiline = true;
             this.textBoxTrigonometri.Name = "textBoxTrigonometri";
@@ -455,6 +484,7 @@
             // 
             // buttonHesaplaCot
             // 
+            this.BackColor=color.Blue;
             this.buttonHesaplaCot.Location = new System.Drawing.Point(497, 211);
             this.buttonHesaplaCot.Name = "buttonHesaplaCot";
             this.buttonHesaplaCot.Size = new System.Drawing.Size(77, 29);
@@ -465,6 +495,7 @@
             // 
             // buttonHesaplaTan
             // 
+            this.Backcolor=coloe.Blue;
             this.buttonHesaplaTan.Location = new System.Drawing.Point(497, 163);
             this.buttonHesaplaTan.Name = "buttonHesaplaTan";
             this.buttonHesaplaTan.Size = new System.Drawing.Size(77, 29);
@@ -475,6 +506,7 @@
             // 
             // buttonHesaplaCos
             // 
+            this.BackColor=color.Blue;
             this.buttonHesaplaCos.Location = new System.Drawing.Point(497, 116);
             this.buttonHesaplaCos.Name = "buttonHesaplaCos";
             this.buttonHesaplaCos.Size = new System.Drawing.Size(77, 29);
@@ -485,6 +517,7 @@
             // 
             // buttonHesaplaSin
             // 
+            this.BackColor=color.Blue;
             this.buttonHesaplaSin.Location = new System.Drawing.Point(497, 74);
             this.buttonHesaplaSin.Name = "buttonHesaplaSin";
             this.buttonHesaplaSin.Size = new System.Drawing.Size(77, 29);
@@ -495,6 +528,7 @@
             // 
             // buttonPaste4
             // 
+            this.BackColor=color.Blue;
             this.buttonPaste4.Location = new System.Drawing.Point(414, 211);
             this.buttonPaste4.Name = "buttonPaste4";
             this.buttonPaste4.Size = new System.Drawing.Size(77, 29);
@@ -505,6 +539,7 @@
             // 
             // buttonPaste3
             // 
+            this.BackColor=color.Blue;
             this.buttonPaste3.Location = new System.Drawing.Point(414, 163);
             this.buttonPaste3.Name = "buttonPaste3";
             this.buttonPaste3.Size = new System.Drawing.Size(77, 29);
@@ -515,6 +550,7 @@
             // 
             // buttonPaste2
             // 
+            this.BackColor=color.Blue;
             this.buttonPaste2.Location = new System.Drawing.Point(414, 116);
             this.buttonPaste2.Name = "buttonPaste2";
             this.buttonPaste2.Size = new System.Drawing.Size(77, 29);
@@ -525,6 +561,7 @@
             // 
             // buttonPaste1
             // 
+            this.BackColor=color.Blue;
             this.buttonPaste1.Location = new System.Drawing.Point(414, 74);
             this.buttonPaste1.Name = "buttonPaste1";
             this.buttonPaste1.Size = new System.Drawing.Size(77, 29);
@@ -535,6 +572,7 @@
             // 
             // buttonCopy4
             // 
+            this.BackColor=color.Blue;
             this.buttonCopy4.Location = new System.Drawing.Point(331, 211);
             this.buttonCopy4.Name = "buttonCopy4";
             this.buttonCopy4.Size = new System.Drawing.Size(77, 29);
@@ -545,6 +583,7 @@
             // 
             // buttonCopy3
             // 
+            this.BackColor=color.Blue;
             this.buttonCopy3.Location = new System.Drawing.Point(331, 163);
             this.buttonCopy3.Name = "buttonCopy3";
             this.buttonCopy3.Size = new System.Drawing.Size(77, 29);
@@ -555,6 +594,7 @@
             // 
             // buttonCopy2
             // 
+            this.BackColor=color.Blue;
             this.buttonCopy2.Location = new System.Drawing.Point(331, 117);
             this.buttonCopy2.Name = "buttonCopy2";
             this.buttonCopy2.Size = new System.Drawing.Size(77, 29);
@@ -565,6 +605,7 @@
             // 
             // buttonCopy1
             // 
+            this.BackColor=color.Blue;
             this.buttonCopy1.Location = new System.Drawing.Point(331, 74);
             this.buttonCopy1.Name = "buttonCopy1";
             this.buttonCopy1.Size = new System.Drawing.Size(77, 29);
@@ -574,14 +615,17 @@
             this.buttonCopy1.Click += new System.EventHandler(this.buttonCopy1_Click);
             // 
             // txtCot
-            // 
-            this.txtCot.Location = new System.Drawing.Point(173, 212);
+            //
+             this.BackColor=color.Blue;
+             this.txtCot.Location = new System.Drawing.Point(173, 212);
             this.txtCot.Name = "txtCot";
             this.txtCot.Size = new System.Drawing.Size(125, 27);
             this.txtCot.TabIndex = 7;
             // 
             // txtTan
             // 
+
+            this.BackColor=color.Blue;
             this.txtTan.Location = new System.Drawing.Point(173, 165);
             this.txtTan.Name = "txtTan";
             this.txtTan.Size = new System.Drawing.Size(125, 27);
@@ -589,6 +633,7 @@
             // 
             // txtCos
             // 
+            this.BackColor=color.Blue;
             this.txtCos.Location = new System.Drawing.Point(173, 118);
             this.txtCos.Name = "txtCos";
             this.txtCos.Size = new System.Drawing.Size(125, 27);
@@ -596,6 +641,7 @@
             // 
             // txtSin
             // 
+            this.BackColor=color.Blue;
             this.txtSin.Location = new System.Drawing.Point(173, 76);
             this.txtSin.Name = "txtSin";
             this.txtSin.Size = new System.Drawing.Size(125, 27);
@@ -603,6 +649,7 @@
             // 
             // lblCot
             // 
+            this.BackColor=color.yellow;
             this.lblCot.AutoSize = true;
             this.lblCot.Location = new System.Drawing.Point(89, 215);
             this.lblCot.Name = "lblCot";
@@ -612,6 +659,7 @@
             // 
             // lblTan
             // 
+            this.BackColor=color.yellow;
             this.lblTan.AutoSize = true;
             this.lblTan.Location = new System.Drawing.Point(89, 168);
             this.lblTan.Name = "lblTan";
@@ -621,6 +669,7 @@
             // 
             // lblCos
             // 
+            this.BackColor=color.yellow;
             this.lblCos.AutoSize = true;
             this.lblCos.Location = new System.Drawing.Point(89, 121);
             this.lblCos.Name = "lblCos";
@@ -630,6 +679,7 @@
             // 
             // lblSin
             // 
+            this.BackColor=color.yellow;
             this.lblSin.AutoSize = true;
             this.lblSin.Location = new System.Drawing.Point(89, 79);
             this.lblSin.Name = "lblSin";
@@ -639,6 +689,7 @@
             // 
             // label1
             // 
+            this.Backcolor=color.yellow;
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(22, 102);
             this.label1.Name = "label1";
@@ -648,6 +699,7 @@
             // 
             // buttonC
             // 
+            this.BackColor=color.Blue;
             this.buttonC.Location = new System.Drawing.Point(12, 341);
             this.buttonC.Name = "buttonC";
             this.buttonC.Size = new System.Drawing.Size(69, 62);
@@ -658,6 +710,7 @@
             // 
             // buttonEsittir
             // 
+            this.BackColor=color.Blue;
             this.buttonEsittir.Location = new System.Drawing.Point(12, 409);
             this.buttonEsittir.Name = "buttonEsittir";
             this.buttonEsittir.Size = new System.Drawing.Size(229, 62);
@@ -668,6 +721,7 @@
             // 
             // buttonGeri
             // 
+            this.BackColor=color.Blue;
             this.buttonGeri.Location = new System.Drawing.Point(168, 341);
             this.buttonGeri.Name = "buttonGeri";
             this.buttonGeri.Size = new System.Drawing.Size(73, 62);
@@ -678,6 +732,7 @@
             // 
             // buttonCopyAna
             // 
+            this.BackColor=color.Blue;
             this.buttonCopyAna.Location = new System.Drawing.Point(168, 11);
             this.buttonCopyAna.Name = "buttonCopyAna";
             this.buttonCopyAna.Size = new System.Drawing.Size(73, 59);
@@ -688,6 +743,7 @@
             // 
             // buttonPasteAna
             // 
+            this.BackColor=color.Blue;
             this.buttonPasteAna.Location = new System.Drawing.Point(168, 76);
             this.buttonPasteAna.Name = "buttonPasteAna";
             this.buttonPasteAna.Size = new System.Drawing.Size(73, 55);
@@ -698,6 +754,7 @@
             // 
             // lblSonucDortgenAlan
             // 
+            this.BackColor=color.Blue;
             this.lblSonucDortgenAlan.AutoSize = true;
             this.lblSonucDortgenAlan.Location = new System.Drawing.Point(78, 213);
             this.lblSonucDortgenAlan.Name = "lblSonucDortgenAlan";
@@ -707,6 +764,7 @@
             // 
             // lblSonucDortgenCevre
             // 
+            this.BackColor=color.Blue;
             this.lblSonucDortgenCevre.AutoSize = true;
             this.lblSonucDortgenCevre.Location = new System.Drawing.Point(78, 182);
             this.lblSonucDortgenCevre.Name = "lblSonucDortgenCevre";
@@ -716,6 +774,7 @@
             // 
             // buttonHesaplaDortgen
             // 
+            this.BackColor=color.Blue;
             this.buttonHesaplaDortgen.Location = new System.Drawing.Point(154, 119);
             this.buttonHesaplaDortgen.Name = "buttonHesaplaDortgen";
             this.buttonHesaplaDortgen.Size = new System.Drawing.Size(123, 29);
@@ -726,6 +785,7 @@
             // 
             // label6
             // 
+            this.BackColor=color.yellow;
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(23, 213);
             this.label6.Name = "label6";
@@ -735,6 +795,7 @@
             // 
             // label5
             // 
+            this.BackColor=color.yellow;
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(23, 182);
             this.label5.Name = "label5";
@@ -744,6 +805,7 @@
             // 
             // label4
             // 
+            this.BackColor=color.yellow;
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(154, 89);
             this.label4.Name = "label4";
@@ -753,6 +815,7 @@
             // 
             // label3
             // 
+            this.BackColor=color.yellow;
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(154, 56);
             this.label3.Name = "label3";
@@ -762,6 +825,7 @@
             // 
             // txtKenar2
             // 
+            this.BackColor=color.green;
             this.txtKenar2.Location = new System.Drawing.Point(218, 86);
             this.txtKenar2.Name = "txtKenar2";
             this.txtKenar2.Size = new System.Drawing.Size(59, 27);
@@ -769,6 +833,7 @@
             // 
             // txtKenar1
             // 
+            this.BackColor=color.green;
             this.txtKenar1.Location = new System.Drawing.Point(218, 53);
             this.txtKenar1.Name = "txtKenar1";
             this.txtKenar1.Size = new System.Drawing.Size(59, 27);
@@ -776,6 +841,7 @@
             // 
             // rdAltigen
             // 
+            this.BackColor=color.pink;
             this.rdAltigen.AutoSize = true;
             this.rdAltigen.Location = new System.Drawing.Point(22, 114);
             this.rdAltigen.Name = "rdAltigen";
@@ -787,6 +853,7 @@
             // 
             // rdSekizgen
             // 
+            this.BackColor=color.pink;
             this.rdSekizgen.AutoSize = true;
             this.rdSekizgen.Location = new System.Drawing.Point(22, 144);
             this.rdSekizgen.Name = "rdSekizgen";
@@ -798,6 +865,7 @@
             // 
             // rdDikdortgen
             // 
+            this.BackColor=color.pink;
             this.rdDikdortgen.AutoSize = true;
             this.rdDikdortgen.Location = new System.Drawing.Point(23, 84);
             this.rdDikdortgen.Name = "rdDikdortgen";
@@ -809,6 +877,7 @@
             // 
             // rdKare
             // 
+            this.BackColor=color.pink;
             this.rdKare.AutoSize = true;
             this.rdKare.Location = new System.Drawing.Point(23, 54);
             this.rdKare.Name = "rdKare";
@@ -820,6 +889,7 @@
             // 
             // panel3
             // 
+            this.BackColor=color.white;
             this.panel3.Controls.Add(this.txtKenar2);
             this.panel3.Controls.Add(this.lblSonucDortgenAlan);
             this.panel3.Controls.Add(this.rdKare);
@@ -840,6 +910,7 @@
             // 
             // panel4
             // 
+            this.BackColor=color.white;
             this.panel4.Controls.Add(this.textBoxTK);
             this.panel4.Controls.Add(this.lblTaban);
             this.panel4.Controls.Add(this.btnHesaplaUcgen);
@@ -865,6 +936,7 @@
             // 
             // textBoxTK
             // 
+            this.BackColor=color.green;
             this.textBoxTK.Location = new System.Drawing.Point(246, 147);
             this.textBoxTK.Name = "textBoxTK";
             this.textBoxTK.Size = new System.Drawing.Size(60, 27);
@@ -873,6 +945,7 @@
             // 
             // lblTaban
             // 
+            this.BackColor=color.yellow;
             this.lblTaban.AutoSize = true;
             this.lblTaban.Location = new System.Drawing.Point(173, 150);
             this.lblTaban.Name = "lblTaban";
@@ -883,6 +956,7 @@
             // 
             // btnHesaplaUcgen
             // 
+            this.BackColor=color.Blue;
             this.btnHesaplaUcgen.Location = new System.Drawing.Point(173, 224);
             this.btnHesaplaUcgen.Name = "btnHesaplaUcgen";
             this.btnHesaplaUcgen.Size = new System.Drawing.Size(133, 29);
@@ -893,6 +967,7 @@
             // 
             // textUcgenYuk
             // 
+            this.BackColor=color.green;
             this.textUcgenYuk.Location = new System.Drawing.Point(247, 179);
             this.textUcgenYuk.Name = "textUcgenYuk";
             this.textUcgenYuk.Size = new System.Drawing.Size(59, 27);
@@ -901,6 +976,7 @@
             // 
             // textUcgenK3
             // 
+            this.BackColor=color.green;
             this.textUcgenK3.Location = new System.Drawing.Point(247, 115);
             this.textUcgenK3.Name = "textUcgenK3";
             this.textUcgenK3.Size = new System.Drawing.Size(59, 27);
@@ -909,6 +985,7 @@
             // 
             // textUcgenK2
             // 
+            this.BackColor=color.green;
             this.textUcgenK2.Location = new System.Drawing.Point(247, 81);
             this.textUcgenK2.Name = "textUcgenK2";
             this.textUcgenK2.Size = new System.Drawing.Size(59, 27);
@@ -917,6 +994,7 @@
             // 
             // labelYukseklik
             // 
+            this.BackColor=color.yellow;
             this.labelYukseklik.AutoSize = true;
             this.labelYukseklik.Location = new System.Drawing.Point(173, 183);
             this.labelYukseklik.Name = "labelYukseklik";
@@ -926,7 +1004,8 @@
             this.labelYukseklik.Visible = false;
             // 
             // labelkenar3
-            // 
+            // this.BackColor=color.yellow;
+            this.BackColor=color.yellow;
             this.labelkenar3.AutoSize = true;
             this.labelkenar3.Location = new System.Drawing.Point(173, 116);
             this.labelkenar3.Name = "labelkenar3";
@@ -937,6 +1016,7 @@
             // 
             // labelkenar2
             // 
+            this.BackColor=color.yellow;
             this.labelkenar2.AutoSize = true;
             this.labelkenar2.Location = new System.Drawing.Point(173, 82);
             this.labelkenar2.Name = "labelkenar2";
@@ -947,6 +1027,7 @@
             // 
             // labelkenar1
             // 
+            this.BackColor=color.yellow; 
             this.labelkenar1.AutoSize = true;
             this.labelkenar1.Location = new System.Drawing.Point(173, 47);
             this.labelkenar1.Name = "labelkenar1";
@@ -957,6 +1038,7 @@
             // 
             // textUcgenK1
             // 
+            this.BackColor=color.green;
             this.textUcgenK1.Location = new System.Drawing.Point(247, 46);
             this.textUcgenK1.Name = "textUcgenK1";
             this.textUcgenK1.Size = new System.Drawing.Size(59, 27);
@@ -965,6 +1047,7 @@
             // 
             // label7
             // 
+            this.BackColor=color.yellow;
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(28, 224);
             this.label7.Name = "label7";
@@ -974,6 +1057,7 @@
             // 
             // label8
             // 
+            this.BackColor=color.yellow;
             this.label8.AutoSize = true;
             this.label8.Location = new System.Drawing.Point(28, 194);
             this.label8.Name = "label8";
@@ -983,6 +1067,7 @@
             // 
             // ucgenAlan
             // 
+            this.BackColor=color.pink;
             this.ucgenAlan.AutoSize = true;
             this.ucgenAlan.Location = new System.Drawing.Point(90, 224);
             this.ucgenAlan.Name = "ucgenAlan";
@@ -992,6 +1077,7 @@
             // 
             // ucgenCevre
             // 
+            this.BackColor=color.pink;
             this.ucgenCevre.AutoSize = true;
             this.ucgenCevre.Location = new System.Drawing.Point(90, 194);
             this.ucgenCevre.Name = "ucgenCevre";
@@ -1001,6 +1087,7 @@
             // 
             // chckCesitkenar
             // 
+            this.Backcolor=color.pink;
             this.chckCesitkenar.AutoSize = true;
             this.chckCesitkenar.Location = new System.Drawing.Point(14, 118);
             this.chckCesitkenar.Name = "chckCesitkenar";
@@ -1012,6 +1099,7 @@
             // 
             // chckDik
             // 
+            this.BackColor=color.pink;
             this.chckDik.AutoSize = true;
             this.chckDik.Location = new System.Drawing.Point(14, 84);
             this.chckDik.Name = "chckDik";
@@ -1023,6 +1111,7 @@
             // 
             // chckEskenar
             // 
+            this.BackColor=color.pink;
             this.chckEskenar.AutoSize = true;
             this.chckEskenar.Location = new System.Drawing.Point(14, 49);
             this.chckEskenar.Name = "chckEskenar";
@@ -1034,6 +1123,7 @@
             // 
             // panel5
             // 
+            this.BackColor=color.white;
             this.panel5.Controls.Add(this.lblAlan);
             this.panel5.Controls.Add(this.lblCevre);
             this.panel5.Controls.Add(this.label12);
@@ -1052,6 +1142,7 @@
             // 
             // lblAlan
             // 
+            this.BackColor=color.yellow;
             this.lblAlan.AutoSize = true;
             this.lblAlan.Location = new System.Drawing.Point(98, 243);
             this.lblAlan.Name = "lblAlan";
@@ -1061,6 +1152,7 @@
             // 
             // lblCevre
             // 
+            this.BackColor=color.yellow;
             this.lblCevre.AutoSize = true;
             this.lblCevre.Location = new System.Drawing.Point(98, 213);
             this.lblCevre.Name = "lblCevre";
@@ -1070,6 +1162,7 @@
             // 
             // label12
             // 
+            this.BackColor=color.yellow;
             this.label12.AutoSize = true;
             this.label12.Location = new System.Drawing.Point(38, 243);
             this.label12.Name = "label12";
@@ -1079,6 +1172,7 @@
             // 
             // labbd
             // 
+            this.BackColor=color.yellow;
             this.labbd.AutoSize = true;
             this.labbd.Location = new System.Drawing.Point(38, 213);
             this.labbd.Name = "labbd";
@@ -1088,6 +1182,7 @@
             // 
             // btnDaireHesapla
             // 
+            this.BackColor=color.Blue;
             this.btnDaireHesapla.Location = new System.Drawing.Point(158, 27);
             this.btnDaireHesapla.Name = "btnDaireHesapla";
             this.btnDaireHesapla.Size = new System.Drawing.Size(123, 53);
@@ -1098,6 +1193,7 @@
             // 
             // txtDaireDer
             // 
+            this.BackColor=color.green;
             this.txtDaireDer.Location = new System.Drawing.Point(98, 151);
             this.txtDaireDer.Name = "txtDaireDer";
             this.txtDaireDer.Size = new System.Drawing.Size(59, 27);
@@ -1106,6 +1202,7 @@
             // 
             // txtDaireYar
             // 
+            this.BackColor=color.green;
             this.txtDaireYar.Location = new System.Drawing.Point(98, 116);
             this.txtDaireYar.Name = "txtDaireYar";
             this.txtDaireYar.Size = new System.Drawing.Size(59, 27);
@@ -1114,6 +1211,7 @@
             // 
             // chckDDilim
             // 
+            this.BackColor=color.gray;
             this.chckDDilim.AutoSize = true;
             this.chckDDilim.Location = new System.Drawing.Point(20, 62);
             this.chckDDilim.Name = "chckDDilim";
@@ -1125,6 +1223,7 @@
             // 
             // chckDaire
             // 
+            this.BackColor=color.gray;
             this.chckDaire.AutoSize = true;
             this.chckDaire.Location = new System.Drawing.Point(20, 32);
             this.chckDaire.Name = "chckDaire";
@@ -1136,6 +1235,7 @@
             // 
             // lblDaireDer
             // 
+            this.BackColor=color.yellow;
             this.lblDaireDer.AutoSize = true;
             this.lblDaireDer.Location = new System.Drawing.Point(20, 154);
             this.lblDaireDer.Name = "lblDaireDer";
@@ -1146,6 +1246,7 @@
             // 
             // lblDaireYar
             // 
+            this.BackColor=color.yellow;
             this.lblDaireYar.AutoSize = true;
             this.lblDaireYar.Location = new System.Drawing.Point(20, 119);
             this.lblDaireYar.Name = "lblDaireYar";
